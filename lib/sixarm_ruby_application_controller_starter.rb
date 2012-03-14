@@ -1,16 +1,7 @@
 # -*- coding: utf-8 -*-
-
 =begin rdoc
-
-= SixArm Ruby Gem: ApplicationController starter kit
-
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2009-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
-
+Please see README
 =end
-
 
 require 'actionpack'
 require 'action_controller'
