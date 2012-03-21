@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_application_controller_starter"
-  s.summary           = "SixArm Ruby Gem: Rails 2.3.2+ application controller starter kit"
+  s.summary           = "SixArm.com » Ruby » Rails 2.3.2+ application controller starter kit"
   s.version           = "1.0.8"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
