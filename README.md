@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> ApplicationController starter kit
+# Ruby » <br> ApplicationController starter kit
 
 * Doc: <http://sixarm.com/sixarm_ruby_application_controller_starter/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_application_controller_starter>
