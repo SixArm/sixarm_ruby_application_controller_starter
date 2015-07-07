@@ -3,10 +3,10 @@
 Please see README
 =end
 
-require 'actionpack'
-require 'action_controller'
-require 'sixarm_ruby_xhr_to_xml'
-require 'sixarm_ruby_set_locale'
+require "actionpack"
+require "action_controller"
+require "sixarm_ruby_xhr_to_xml"
+require "sixarm_ruby_set_locale"
 
 class ApplicationController < ActionController::Base
 
