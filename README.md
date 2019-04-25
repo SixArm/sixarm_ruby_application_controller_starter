@@ -13,26 +13,26 @@ For docs go to <http://sixarm.com/sixarm_ruby_application_controller_starter/doc
 Want to help? We're happy to get pull requests.
 
 
-<!--install-opent-->
+<!--install-open-->
 
 ## Install
 
-To install using a Gemfile, add this:
+### Gem
 
-    gem "sixarm_ruby_application_controller_starter", ">= 1.0.9", "< 2"
+To install this gem in your shell or terminal:
 
-To install using the command line, run this:
+    gem install sixarm_ruby_application_controller_starter
 
-    gem install sixarm_ruby_application_controller_starter -v ">= 1.0.9, < 2"
+### Gemfile
 
-To install using the command line with high security, run this:
+To add this gem to your Gemfile:
 
-    wget http://sixarm.com/sixarm.pem
-    gem cert --add sixarm.pem && gem sources --add http://sixarm.com
-    gem install sixarm_ruby_application_controller_starter -v ">= 1.0.9, < 2" --trust-policy HighSecurity
+    gem 'sixarm_ruby_application_controller_starter'
+
+### Require
 
 To require the gem in your code:
 
-    require "sixarm_ruby_application_controller_starter"
+    require 'sixarm_ruby_application_controller_starter'
 
 <!--install-shut-->
