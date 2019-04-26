@@ -36,7 +36,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency("sixarm_ruby_minitest_extensions", ">= 1.0.8", "< 2")
   s.add_development_dependency("rake", ">= 12.3.0", "< 13")
   s.add_development_dependency("simplecov", ">= 0.14.1", "< 2")
-  s.add_development_dependency("coveralls", ">= 0.8.21", "< 2")
   s.add_development_dependency('sixarm_ruby_action_controller_mock', '>=1.0.6', '<2') # for test
 
   s.required_ruby_version = ">= 2.2"
