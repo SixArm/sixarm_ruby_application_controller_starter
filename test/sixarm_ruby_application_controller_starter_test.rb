@@ -4,7 +4,7 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_application_controller_starter"
 
-class ApplicationControllerStarterTest < Test::Unit::TestCase
+class ApplicationControllerStarterTest < Minitest::Test
 
  def test_new
   @a = ApplicationController.new
